@@ -254,4 +254,7 @@
     <!-- Rear Display Education -->
     <color name="rear_display_overlay_animation_background_color">#1E1B17</color>
     <color name="rear_display_overlay_dialog_background_color">#1E1B17</color>
+    <color name="oneui_accent">#FF1428A0</color>
+    <color name="oneui_qs_bg">#CC000000</color>
+    <color name="oneui_notification_card_bg">#E61C1C1E</color>
 </resources>
